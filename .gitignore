@@ -1,0 +1,53 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# MLflow tracking files
+mlruns/
+
+# Artifacts
+artifacts/
+
+# Data (optional, depending on whether you want to version control raw data)
+data/
+
+# Logs
+*.log
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary or personal files
+*.swp
+*.swo
+
+# Plots and generated visual outputs
+*.png
+
+# Excel or other result exports
+*.xlsx
+*.xls
+
+# Environment and dependency lock files (optional, if you don’t want to version them)
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Conda
+environment.yml
+
+# Ignore built distributions
+dist/
+build/
+*.egg-info/

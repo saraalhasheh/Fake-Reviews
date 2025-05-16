@@ -1,0 +1,13 @@
+Timestamp,Input,Prediction
+2025-05-15T18:46:59.631238,"I loved this product, highly recommended!",0.12930521368980408
+2025-05-15T18:47:01.697426,"Terrible experience, I will never buy this again.",0.07849997282028198
+2025-05-15T18:47:03.767850,Best purchase I have made this year.,0.07373017817735672
+2025-05-15T18:47:05.843653,This is a fake review with repetitive phrases and keywords.,0.19580642879009247
+2025-05-15T19:07:15.772016,wowowowow,0.5558226108551025,v1,0.0685,200
+2025-05-15T19:09:25.351771,"""This cooking product is absolutely amazing!!! I have never used anything like it before. It makes cooking so easy and perfect every single time!!! I highly recommend this incredible kitchen tool to everyone. Buy it today and transform your cooking experience forever!!!""",0.008806225843727589,v1,0.0622,200
+2025-05-15T19:09:59.517034,this product is amazing because it doesnt rust,0.1574607938528061,v1,0.0576,200
+2025-05-15T19:14:22.401100,this product is amazing because it doesnt rust,0.1574607938528061,v1,0.058,200
+2025-05-15T22:25:40.855474,wowowowowowowowow,0.5558226108551025,v1,0.4912,200
+2025-05-15T22:26:30.025472,"I love this knife , it doent rust",0.31575751304626465,v1,0.0635,200
+2025-05-15T22:26:42.917130,"I love this knife , it doesnt rust",0.31575751304626465,v1,0.0595,200
+2025-05-16T01:16:10.500807,"I love this knife , Ive had it for 3 years now and it never rusted",0.02953898161649704,v1,0.4894,200
